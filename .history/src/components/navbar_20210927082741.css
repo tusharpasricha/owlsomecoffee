@@ -1,0 +1,16 @@
+
+div{
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+    height: 50%;
+}
+ul {
+    
+    list-style-type: none;  
+  }
+ 
+  a{
+    background-color: cadetblue;
+    text-decoration: none;
+  }

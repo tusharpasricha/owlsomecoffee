@@ -1,0 +1,12 @@
+.nav{
+    background-color: brown;
+    height: 50px;
+    align-items: center;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+    text-align: center;
+  }

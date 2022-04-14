@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+   
+}
+div{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+ ul{
+     background-color: cornflowerblue;
+     display: flex;
+     list-style-type: none;
+ }
+ a{
+     text-decoration: none;
+ }

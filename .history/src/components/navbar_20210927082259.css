@@ -1,0 +1,23 @@
+
+.nav{
+    display: flex;
+    background-color: brown;
+    height: 50px;
+    align-items:center;
+}
+ul {
+    display: flex;
+    background-color: burlywood;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+  }
+  li{
+    
+      padding: 18px;
+     
+  }
+  a{
+    background-color: cadetblue;
+    text-decoration: none;
+  }

@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+   
+}
+div{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+ ul{
+     display: flex;
+     text-decoration: none;
+ }

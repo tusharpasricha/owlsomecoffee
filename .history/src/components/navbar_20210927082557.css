@@ -1,0 +1,14 @@
+
+.nav{
+    background-color: brown;
+}
+ul {
+    display: flex;
+    background-color: burlywood;
+    list-style-type: none;  
+  }
+ 
+  a{
+    background-color: cadetblue;
+    text-decoration: none;
+  }

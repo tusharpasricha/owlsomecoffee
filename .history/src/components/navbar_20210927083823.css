@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+   
+}
+div{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+ ul{
+     background-color: cornflowerblue;
+     display: flex;
+     list-style-type: none;
+     justify-content: center;
+     padding: 54px;
+ }
+ a{
+     text-decoration: none;
+ }

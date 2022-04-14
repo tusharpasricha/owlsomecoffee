@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap'); */
+
+.beforefootor{
+   
+    
+    display: flex;
+}
+
+.info{
+    color: rgba(255, 255, 255, 0.849);
+    width: 33.333%;
+    text-align: center;
+    padding: 0%;
+    background-image: linear-gradient(to right, #bdc3c7,#2c3e50);    
+}
+
+.tag{
+    color:#ea4c89;
+}
+.value{
+ color: white;
+}
+

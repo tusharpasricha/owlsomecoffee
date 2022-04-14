@@ -1,0 +1,16 @@
+
+.nav{
+    margin: 0%;
+    padding: 0;
+    background-color: brown;
+}
+ul {
+    
+    background-color: burlywood;
+    list-style-type: none;  
+  }
+ 
+  a{
+    background-color: cadetblue;
+    text-decoration: none;
+  }

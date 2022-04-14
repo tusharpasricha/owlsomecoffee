@@ -1,0 +1,24 @@
+.giftboxes{
+    display: flex;
+    background-color:rgb(121, 8, 8);
+    flex-direction: row;
+    color: rgba(255, 255, 255, 0.89);
+    /* height: 600px; */
+}
+.left{
+    background-color: #603813;
+    /* background: linear-gradient(to right ,#603813,#b29f94); */
+}
+.right{
+    /* background-color:rgb(66, 31, 6); */
+background: linear-gradient(to right ,#603813,#b29f94);
+}
+.imgbox{
+    
+    align-items: center;
+   
+}
+.gimg{
+    height: 500px;
+    width: 500px;
+}

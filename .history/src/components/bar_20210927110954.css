@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+   
+}
+.bar{
+    margin-top: 60px;
+    background-color: rgba(209, 94, 94, 0.74);
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    align-items: center;
+}
+ul{  
+     display: flex;
+     list-style-type: none;
+     justify-content: center;
+     padding: 2px;
+ }
+ li{
+     display: flex;
+     flex-direction: column;
+     padding-right: 30px;
+     padding-left: 30px;
+     text-align: center;
+     
+ }
+ a{
+     text-decoration: none;
+     color: black;
+ }
+img{
+    
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+}

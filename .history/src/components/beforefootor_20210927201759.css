@@ -1,0 +1,26 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap'); */
+
+.beforefootor{
+    background-image: linear-gradient(to right, #000428,#004e92);  
+    
+    display: flex;
+}
+
+.info{
+    color: rgba(255, 255, 255, 0.849);
+    width: 33.333%;
+    text-align: center;
+    padding: 0%;
+      
+}
+
+.tag{
+    color:#ea4c89;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.value{
+ color: white;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 15px;
+}
+

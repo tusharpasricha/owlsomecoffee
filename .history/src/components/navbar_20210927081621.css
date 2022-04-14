@@ -1,0 +1,21 @@
+
+.nav{
+    background-color: brown;
+    height: 50px;
+}
+ul {
+    background-color: burlywood;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+    align-items: center;
+    float:right;
+  }
+  li{
+      padding: 8px;
+     
+  }
+  a{
+    text-decoration: none;
+  }

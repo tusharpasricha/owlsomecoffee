@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap'); */
+
+.beforefootor{
+    
+    background-color: rgb(252, 252, 252);
+    display: flex;
+    background-color: teal;
+   
+   
+}
+
+.info{
+    color: rgba(255, 255, 255, 0.849);
+    width: 33.333%;
+    text-align: center;
+    background-color: thistle;
+    padding: 0%;
+    
+    
+}
+
+.tag{
+    color:#ea4c89;
+}
+.value{
+ color: white;
+}
+

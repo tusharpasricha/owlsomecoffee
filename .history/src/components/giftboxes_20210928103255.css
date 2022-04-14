@@ -1,0 +1,13 @@
+.giftboxes{
+    display: flex;
+    background-color:rgb(121, 8, 8);
+    flex-direction: column;
+    /* height: 600px; */
+}
+.left{
+    background-color: burlywood;
+}
+.right{
+    background-color: cornflowerblue;
+
+}

@@ -1,0 +1,21 @@
+
+.nav{
+    display: flex;
+    background-color: brown;
+    height: 50px;
+    align-items:center;
+}
+ul {
+    display: flex;
+    background-color: burlywood;
+    list-style-type: none;  
+  }
+  li{
+    
+      padding: 8px;
+     
+  }
+  a{
+    background-color: cadetblue;
+    text-decoration: none;
+  }

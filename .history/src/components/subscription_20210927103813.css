@@ -1,0 +1,25 @@
+.subs{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(216, 170, 179);
+    height: 500px;
+}
+section{
+    
+    flex-direction: column;
+    padding: 100px;
+    width: 40%;
+  
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 30px;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}

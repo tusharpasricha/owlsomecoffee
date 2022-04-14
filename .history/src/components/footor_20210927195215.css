@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+.footor{
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-Family: 'Style Script'
+  }

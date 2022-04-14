@@ -1,0 +1,9 @@
+*{
+    margin: 0%;
+    background-color: chartreuse;
+}
+div{
+    display: flex;
+    background-color: brown;
+}
+ 

@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+   
+}
+
+.nav{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    position: fixed;
+}
+ul{
+     
+     display: flex;
+     list-style-type: none;
+     justify-content: center;
+     padding: 2px;
+ }
+ li{
+     padding-right: 40px;
+     padding-left: 40px;
+ }
+ a{
+     text-decoration: none;
+     color: black;
+ }
